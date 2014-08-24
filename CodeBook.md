@@ -13,8 +13,6 @@ Each activity label was replaced with corresponding activity name from activity_
 
 Column names:
 
-Subject: .. range of values [1:30] .. id of a subject performing ther activity
-Activity: .. Name of activity performed
-Rest of the coluns corespond to averaged variables describing mean/std measurements. E.g. tGravityAcc-mean()-X tGravityAcc-mean()-Y tGravityAcc-mean()-Z tGravityAcc-std()-X tGravityAcc-std()-Y tGravityAcc-std()-Z
+
 
 Names of these variables are same as in features.txt but the values are averages of each variable for each activity and each subject.
